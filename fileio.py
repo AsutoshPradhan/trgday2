@@ -5,7 +5,7 @@ day= str(datetime.datetime.now())
 #print (day)
 
 
-f = open("log.txt", "a")
+f = open("C:\Users\asupradhan\Documents\Landing\ProposalInitiatives\COE\Training\Deploy\UAT\log.txt", "a")
 
 f.write(day)
 
